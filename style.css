@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: white;
 }
 h1 {
     font-size: 50px;
@@ -12,7 +12,7 @@ p {
 }
 
 .spending-time {
-    color: deeppink;
+    color: blue;
 }
 
 .rooney-style {
@@ -27,8 +27,24 @@ p {
     background-color: red;
 }
 
+.merica {
+    color: red;
+    font-size: 300px;
+    background-image: url("map.jpg");
+    background-size: contain;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.americanFriends {
+    color: red;
+}
+
 .home-town {
-    color:yellow;
+    color: blue;
+}
+
+.home-town2{
+    color: red;
 }
 
 .goal {
