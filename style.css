@@ -1,0 +1,43 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    font-family: monospace;
+    font-size: 20px
+}
+
+.spending-time {
+    color: deeppink;
+}
+
+.rooney-style {
+    position: absolute;
+    border: 10px ridge gold;
+    width: 200px;
+    float: center;
+    z-index: 2;
+}
+
+.dating {
+    background-color: red;
+}
+
+.home-town {
+    color:yellow;
+}
+
+.goal {
+    position: absolute;
+    border: 20px double white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    z-index: 1;
+}
+
+/*8, 2 RyanTorske*/
